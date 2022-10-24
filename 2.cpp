@@ -5,6 +5,7 @@
 #define fast ios::sync_with_stdio(0), cin.tie(nullptr), cout.tie(nullptr)
 #define endl "\n"
 using namespace std;
+//1347 backjun
 int main() {
 	fast;
 	vector<string> room;
